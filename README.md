@@ -1,1 +1,1 @@
-# DynamicWebPage
+html, css and javascript files
